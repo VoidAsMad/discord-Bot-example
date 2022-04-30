@@ -7,4 +7,4 @@ discord.py 예제
 [<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">](https://firebase.google.com/?hl=ko)
 
 ## Discord Server
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">](https://replit.com/)
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">](https://discord.gg/B98msXGRB7)
