@@ -1,5 +1,5 @@
 # discord-Bot-example
-discord.py example
+discord.py example(작성중...)
 
 ## 사용환경
 [<img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=Replit&logoColor=white">](https://replit.com/)
